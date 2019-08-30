@@ -55,6 +55,8 @@ namespace InvestigationTask
                     Console.WriteLine("\nType the equation for no) " + (i + 1));
 
                     ans = Console.ReadLine();
+                    if (ans != calculations[i])
+                        Console.WriteLine("Incorect answer entered, please try again");
 
                 } while (ans != calculations[i]);
             }
