@@ -5,3 +5,10 @@ C:\Users\ahurrell\OneDrive - South Eastern Regional College\InvestigationTask\In
 C:\Users\ahurrell\OneDrive - South Eastern Regional College\InvestigationTask\InvestigationTask\obj\Debug\InvestigationTask.csproj.CoreCompileInputs.cache
 C:\Users\ahurrell\OneDrive - South Eastern Regional College\InvestigationTask\InvestigationTask\obj\Debug\InvestigationTask.exe
 C:\Users\ahurrell\OneDrive - South Eastern Regional College\InvestigationTask\InvestigationTask\obj\Debug\InvestigationTask.pdb
+C:\Users\cmckibbin\source\GitHub\GitHub-Training\InvestigationTask\InvestigationTask\bin\Debug\InvestigationTask.exe.config
+C:\Users\cmckibbin\source\GitHub\GitHub-Training\InvestigationTask\InvestigationTask\bin\Debug\InvestigationTask.exe
+C:\Users\cmckibbin\source\GitHub\GitHub-Training\InvestigationTask\InvestigationTask\bin\Debug\InvestigationTask.pdb
+C:\Users\cmckibbin\source\GitHub\GitHub-Training\InvestigationTask\InvestigationTask\obj\Debug\InvestigationTask.csprojAssemblyReference.cache
+C:\Users\cmckibbin\source\GitHub\GitHub-Training\InvestigationTask\InvestigationTask\obj\Debug\InvestigationTask.csproj.CoreCompileInputs.cache
+C:\Users\cmckibbin\source\GitHub\GitHub-Training\InvestigationTask\InvestigationTask\obj\Debug\InvestigationTask.exe
+C:\Users\cmckibbin\source\GitHub\GitHub-Training\InvestigationTask\InvestigationTask\obj\Debug\InvestigationTask.pdb

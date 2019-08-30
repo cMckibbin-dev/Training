@@ -13,9 +13,9 @@ namespace InvestigationTask
         
         static void Main(string[] args)
         {
-            calculations = new string[5];
+            calculations = new string[6];
 
-            for(int i = 0; i < 5; i++)
+            for(int i = 0; i < calculations.Length; i++)
             {
                 int no1, no2, ans;
 
@@ -23,30 +23,30 @@ namespace InvestigationTask
 
                 no2 = Random;
 
-                if (no1 > 50)
+                if (no1 <= 50)
                 {
                     ans = no1 - no2;
 
-                    calculations[i] = no1.ToString() + "-" + no2.ToString() + "=" + ans.ToString();
+                    calculations[i] = $"{no1}-{no2}={ans}";
                 }
                 else if (no1 > 100)
                 {
                     ans = no1 + no2;
 
-                    calculations[i] = no1.ToString() + "+" + no2.ToString() + "=" + ans.ToString();
+                    calculations[i] = $"{no1}+{no2}={ans}";
                 }                    
                 else
                 {
                     ans = no1 * no2;
 
-                    calculations[i] = no1.ToString() + "*" + no2.ToString() + "=" + ans.ToString();
+                    calculations[i] = $"{no1}*{no2}={ans}";
                 }
                    
                 Console.WriteLine(ans);
             }
 
 
-            for (int i = 0; i < 5; i++)
+            for (int i = 0; i < calculations.Length; i++)
             {
                 string ans;
 
