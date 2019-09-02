@@ -23,13 +23,13 @@ namespace InvestigationTask
 
                 no2 = Random;
 
-                if (no1 <= 50)
+                if (no1 > 100)
                 {
                     ans = no1 - no2;
 
                     calculations[i] = $"{no1}-{no2}={ans}";
                 }
-                else if (no1 > 100)
+                else if (no1 > 50)
                 {
                     ans = no1 + no2;
 
